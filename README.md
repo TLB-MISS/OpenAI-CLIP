@@ -1,6 +1,6 @@
 # INTRODUCTION
 --------------------------------------------------------------------------
-This is a modification of the OpenAI-CLIP repo of moein-shariatnia.
+This is a modification of the OpenAI-CLIP repo of moein-shariatnia(https://github.com/moein-shariatnia/OpenAI-CLIP).
 
 The current training dataset supports flicker-8k or flicker-30k, and the image encoder supports Resnet50 or ViT(*vit_base_patch16_384*).
 
