@@ -1,0 +1,12 @@
+### result image file ###
+*.png
+*.jpg
+
+### output model ###
+*.pt
+
+### env ###
+.venv/
+
+### cache ###
+__pycache__/
