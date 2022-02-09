@@ -33,6 +33,6 @@ You must set(or check) some options in config.py before pretrain & inference
 
 > ex2) *model_name*(*"resnet50"* or *"vit_base_patch16_384"*): Type of image encoder
 
-> ex3) *pretrain*(*True* or *False*): Decide whether to learn by loading pretrain versions of text encoder(DistilBert) and image encoder(resnet50 or ViT)
+> ex3) *pretrained*(*True* or *False*): Decide whether to learn by loading pretrain versions of text encoder(DistilBert) and image encoder(resnet50 or ViT)
 
 > ex4) *batch_size*: Set according to the capacity of the machine

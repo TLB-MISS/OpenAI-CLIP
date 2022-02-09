@@ -25,7 +25,7 @@ if model_name == "resnet50":
     image_embedding = 2048
 elif model_name == "vit_base_patch16_384":
     size = 384
-    batch_size = 4
+    batch_size = 8
     image_embedding = 1000
 else:
     raise Exception("Does not support other than resnet50 or vit_base_patch16_384")
