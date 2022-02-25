@@ -18,7 +18,7 @@ max_length = 200
 
 # related with image encoder
 # image size & batch size & image_embedding
-model_name = "vit_base_patch16_384" # "resnet50" or "vit_base_patch16_384"
+model_name = "resnet50" # "resnet50" or "vit_base_patch16_384"
 if model_name == "resnet50":
     size = 224
     batch_size = 32
