@@ -23,12 +23,12 @@ $ python3 pretrain.py
 
 + Inference image from text query 
 ```
-$ python3 inference_text_to_image.py --qeury={YOUR QUERY}
+$ python3 inference_text_to_image.py --query={YOUR QUERY}
 ```
 
 + Inference text from image query
 ```
-$ python3 inference_text_to_image.py --qeury_text={YOUR .txt FILE} --query_image={YOUR .jpg or .png FILE}
+$ python3 inference_image_to_text.py --query_text={YOUR .txt FILE} --query_image={YOUR .jpg or .png FILE}
 ```
 
 # CAUTION
